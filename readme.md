@@ -1,6 +1,6 @@
 # electrondemo
 
-> My posh app
+> This application as of now is just a piece of boilerplate code made using [boilerplate-generator](https://github.com/sindresorhus/electron-boilerplate), but will be updated as I learn Node and Electron Framework.
 
 
 ## Dev
