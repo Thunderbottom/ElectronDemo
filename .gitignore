@@ -1,0 +1,5 @@
+node_modules
+/dist
+.gitattributes
+.DS_Store
+.editorconfig
